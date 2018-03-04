@@ -8,5 +8,6 @@
 
 4. thinkbayes :: for those who interested in bayes theorem
 
+5. Introduction_to_probability 
 
 20180303통계스터디수업.pdf  :: 파이썬 기본 어법 
